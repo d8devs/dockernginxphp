@@ -1,0 +1,5 @@
+.idea
+code/src
+code/vendor
+code/log.txt
+code/composer.json
